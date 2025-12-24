@@ -13,4 +13,4 @@ mobiles.filter((i)=>{
 
 
 
-console.log(mobiles);
+console.log(mujju);
