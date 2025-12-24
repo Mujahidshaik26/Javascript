@@ -1,0 +1,11 @@
+let number=10;
+console.log(number)
+
+number=100;
+console.log(number);
+
+number=1000;
+console.log(number);
+
+// it can be reassigned
+
